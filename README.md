@@ -111,6 +111,9 @@ FUTURE_DS_02/
 ├── Report/
 │   └── College_Event_Feedback_Analysis_Report.pdf
 │
+├── Visualizations/
+│   └── All 9 Visualizations
+|
 └── README.md
 ```
 
@@ -154,8 +157,6 @@ Based on the analysis, the following recommendations are suggested:
 ---
 
 ## 📄 Final Deliverables
-
-![Executive Overview](Report/College_Event_Feedback_Analysis_Report.pdf)
 
 - ✅ Cleaned dataset  
 - ✅ Well-documented Python notebooks  
