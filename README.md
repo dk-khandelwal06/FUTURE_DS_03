@@ -155,6 +155,8 @@ Based on the analysis, the following recommendations are suggested:
 
 ## 📄 Final Deliverables
 
+![Executive Overview](Report/College_Event_Feedback_Analysis_Report.pdf)
+
 - ✅ Cleaned dataset  
 - ✅ Well-documented Python notebooks  
 - ✅ Professional multi-page analytical report  
